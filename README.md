@@ -1,4 +1,5 @@
 === Directory Scraping Toolkit ===
+
 Contributors: MJ Layasan
 Requires at least: Node.js v14+, WordPress 6.8
 Tested up to: 6.8
