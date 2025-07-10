@@ -1,10 +1,10 @@
 === Directory Scraping Toolkit ===
 
-Contributors: MJ Layasan
-Requires at least: Node.js v14+, WordPress 6.8
-Tested up to: 6.8
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Contributors: MJ Layasan  
+Requires at least: Node.js v14+, WordPress 6.8  
+Tested up to: 6.8  
+License: GPLv2 or later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
 == Description ==
 
